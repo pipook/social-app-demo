@@ -1,4 +1,4 @@
-# Lesson 10
+# Lesson 10 
 
 <- Back to [previous lesson](https://github.com/mongodb-developer/social-app-demo/tree/9-lesson)
 
